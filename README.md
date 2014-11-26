@@ -32,3 +32,10 @@ Hide the Toast:
 Important:
 --------
 Make sure to call **hideToast()** in onPause() to cancel all the action remaining toasts.
+
+Basic Samples
+--------
+
+![Info Toast](https://github.com/nrk1989/SuperToast/blob/master/Resources/Toast_Info.png)
+
+![Error Toast](https://github.com/nrk1989/SuperToast/blob/master/Resources/Toast_Error.png)
