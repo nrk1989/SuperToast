@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="bg_toast_default">#2eacff</color>
+    <color name="bg_toast_info">#92cc2e</color>
+    <color name="bg_toast_error">#fe3f2b</color>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Custom Toast -->
+    <dimen name="toast_height">48dp</dimen>
+    <dimen name="toast_padding">5dp</dimen>
+    <dimen name="toast_txt">14sp</dimen>
+
+</resources>

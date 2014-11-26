@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">SuperToastDemo</string>
+
+    <string name="show_short_info_toast">Show Short Info Toast</string>
+
+    <string name="show_long_info_toast">Show Long Info Toast</string>
+
+    <string name="show_short_error_toast">Show Short Error Toast</string>
+
+    <string name="show_long_error_toast">Show Long Error Toast</string>
+
+    <string name="hide_toast">Hide Toast</string>
+
+</resources>

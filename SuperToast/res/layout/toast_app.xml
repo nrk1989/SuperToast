@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/txtToastMessage"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/toast_height"
+    android:background="@color/bg_toast_default"
+    android:gravity="center"
+    android:padding="@dimen/toast_padding"
+    android:textColor="@android:color/white"
+    android:textSize="@dimen/toast_txt"
+    android:textStyle="bold"    android:visibility="gone" />

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnShortInfo"
+        style="@style/btn_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick"
+        android:text="@string/show_short_info_toast" />
+
+    <Button
+        android:id="@+id/btnLongInfo"
+        style="@style/btn_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick"
+        android:text="@string/show_long_info_toast" />
+
+    <Button
+        android:id="@+id/btnShortError"
+        style="@style/btn_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick"
+        android:text="@string/show_short_error_toast" />
+
+    <Button
+        android:id="@+id/btnLongError"
+        style="@style/btn_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick"
+        android:text="@string/show_long_error_toast" />
+
+    <Button
+        android:id="@+id/btnHide"
+        style="@style/btn_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClick"
+        android:text="@string/hide_toast" />
+
+</LinearLayout>
