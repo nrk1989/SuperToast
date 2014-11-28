@@ -5,7 +5,7 @@ Context sensual toasts for android.
 
 Overview
 --------
-**SuperToast** is a utility class that can be used by Android Developers whose needs to show the toasts wrapped within the actual context. 
+**SuperToast** is a utility class that can be used by Android Developers who needs to show the toasts wrapped within the actual context. 
 
 A SuperToast will be displayed at the top postiion of an application window.
 
