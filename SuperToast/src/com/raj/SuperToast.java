@@ -6,7 +6,7 @@
  * @category   Utils
  * @package    com.raj
  * @version    1.0
- * @author     Rajkumar.N <rkmail1989@gmail.com>
+ * @author     Rajkumar.N (Email: rkmail1989@gmail.com)
  * @license    http://www.apache.org/licenses/LICENSE-2.0 
  */
 
