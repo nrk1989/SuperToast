@@ -6,8 +6,7 @@
  * @category   Contus
  * @package    com.raj.supertoastdemo
  * @version    1.0
- * @author     Contus Team <developers@contus.in>
- * @copyright  Copyright (C) 2014 Contus. All rights reserved.
+ * @author     Rajkumar.N (Email: rkmail1989@gmail.com)
  * @license    http://www.apache.org/licenses/LICENSE-2.0 
  */
 package com.raj.supertoastdemo;
